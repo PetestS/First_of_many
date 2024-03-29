@@ -14,3 +14,4 @@ label = tk.Label(root, font=('calibri', 40, 'bold'), background='black', foregro
 label.pack(anchor='center')
 time()
 root.mainloop()
+Hii Sasa inafaa phyton
